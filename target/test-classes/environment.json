@@ -1,0 +1,15 @@
+{
+  "TEST":{
+    "TEST" : {
+      "ui_url"	   :"http://localhost:3003",
+      "className"          :""
+    },
+    "DEVELOP": {
+      "ui_url"	   :"http://develop:3003",
+      "className"          :""    },
+    "UAT": {
+      "ui_url"	   :"http://uat:3003",
+      "className"          :""
+    }
+  }
+}
